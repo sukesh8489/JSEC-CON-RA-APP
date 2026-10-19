@@ -1,0 +1,8 @@
+{
+  "name": "JSEC MARK APPLICATION 1 - Jaya Sakthi Engineering College",
+  "description": "Internal Assessment Mark Entry and Central Exam Cell Portal for Jaya Sakthi Engineering College (Anna University Affiliated).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
